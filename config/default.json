@@ -1,0 +1,4 @@
+{
+    "app_name": "Typescript Boiler",
+    "app_description": "This is a boiler project of typescript, tslint, prettier, mocha, chai and sinon with Express Application"
+}
